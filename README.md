@@ -1,5 +1,3 @@
 # hello-world
 
-Hello everybody
-
-Welcome here on earth
+Hello everyone, I am Martin and I am going to do easy webpage with html code.
